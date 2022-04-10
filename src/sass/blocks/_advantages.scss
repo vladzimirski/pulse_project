@@ -31,6 +31,11 @@
             text-decoration: underline;
         }
     }
+    &_icon {
+        &_animated {
+            animation: heartbeat 1.6s ease infinite;
+        }
+    }
 }
 
     
